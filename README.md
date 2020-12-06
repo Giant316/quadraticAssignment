@@ -8,4 +8,4 @@ This project is an attempt to explore different algorithms to find a solution to
 
 In the Quadratic Assignment Problem (QAP) we are given a set F of n facilities and a set L of n locations. The goal of the QAP is to assign all facilities to locations such that each facility is assigned to exactly one location and the flow weighted sum of the distances is minimized. Assume the company LuneLog decides to start assembling furniture. The board of directors preselected 5 places in Germany as locations for 5 new facilities to be built. These locations are marked with letters A to E in green circles in Figure 1. Furthermore, they decided which facility will perform each task and determined the flow between the facilities given by Table 1. Distances between the preselected locations are given in Table 2.
 
-![loc](../loc.png)
+![loc](../main/loc.png?raw=true)
